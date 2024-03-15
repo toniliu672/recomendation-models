@@ -79,5 +79,52 @@
         "Minat Bidang Studi": "Bahasa",
         "Kemampuan Komunikasi": 8,
         "Jurusan Direkomendasikan": "Jurusan Pendidikan Teknologi Informasi dan Komunikasi"
-    }
+    },
+    {
+    "Nilai Rapor": 75,
+    "Hasil Ujian Matematika": 96,
+    "Hasil Ujian IPA": 82,
+    "Hasil Ujian IPS": 69,
+    "Minat Bidang Studi": "Bahasa",
+    "Kemampuan Komunikasi": 9,
+    "Jurusan Direkomendasikan": "Prodi Teknik Informatika"
+    },
+    {
+    "Nilai Rapor": 73,
+    "Hasil Ujian Matematika": 87,
+    "Hasil Ujian IPA": 82,
+    "Hasil Ujian IPS": 70,
+    "Minat Bidang Studi": "Teknik",
+    "Kemampuan Komunikasi": 8,
+    "Jurusan Direkomendasikan": "Prodi Teknik Informatika"
+},
+{
+    "Nilai Rapor": 90,
+    "Hasil Ujian Matematika": 95,
+    "Hasil Ujian IPA": 92,
+    "Hasil Ujian IPS": 89,
+    "Minat Bidang Studi": "Sains",
+    "Kemampuan Komunikasi": 9,
+    "Jurusan Direkomendasikan": "Jurusan Pendidikan Teknik Mesin"
+},
+{
+    "Nilai Rapor": 88,
+    "Hasil Ujian Matematika": 90,
+    "Hasil Ujian IPA": 92,
+    "Hasil Ujian IPS": 89,
+    "Minat Bidang Studi": "Sains",
+    "Kemampuan Komunikasi": 9,
+    "Jurusan Direkomendasikan": "Jurusan Pendidikan Teknik Elektro"
+},
+{
+    "Nilai Rapor": 80,
+    "Hasil Ujian Matematika": 85,
+    "Hasil Ujian IPA": 88,
+    "Hasil Ujian IPS": 83,
+    "Minat Bidang Studi": "Sains",
+    "Kemampuan Komunikasi": 8,
+    "Jurusan Direkomendasikan": "Jurusan Pendidikan Teknologi Informasi dan Komunikasi"
+}
+
+
 ]
