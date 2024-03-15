@@ -1,0 +1,20 @@
+[
+    {
+        "Nilai Rapor": 65,
+        "Hasil Ujian Matematika": 60,
+        "Hasil Ujian IPA": 70,
+        "Hasil Ujian IPS": 68,
+        "Minat Bidang Studi": "Sosial",
+        "Kemampuan Komunikasi": 6,
+        "Jurusan Direkomendasikan": "Prodi Arsitektur"
+    },
+    {
+        "Nilai Rapor": 78,
+        "Hasil Ujian Matematika": 72,
+        "Hasil Ujian IPA": 75,
+        "Hasil Ujian IPS": 70,
+        "Minat Bidang Studi": "Seni",
+        "Kemampuan Komunikasi": 7,
+        "Jurusan Direkomendasikan": "Jurusan Pendidikan Teknik Elektro"
+    }
+]

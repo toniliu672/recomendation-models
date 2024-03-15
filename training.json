@@ -1,0 +1,83 @@
+[
+    {
+        "Nilai Rapor": 85,
+        "Hasil Ujian Matematika": 78,
+        "Hasil Ujian IPA": 82,
+        "Hasil Ujian IPS": 75,
+        "Minat Bidang Studi": "Sains",
+        "Kemampuan Komunikasi": 8,
+        "Jurusan Direkomendasikan": "Prodi Teknik Informatika"
+    },
+    {
+        "Nilai Rapor": 70,
+        "Hasil Ujian Matematika": 65,
+        "Hasil Ujian IPA": 72,
+        "Hasil Ujian IPS": 68,
+        "Minat Bidang Studi": "Ekonomi",
+        "Kemampuan Komunikasi": 7,
+        "Jurusan Direkomendasikan": "Prodi Teknik Sipil"
+    },
+    {
+        "Nilai Rapor": 88,
+        "Hasil Ujian Matematika": 80,
+        "Hasil Ujian IPA": 85,
+        "Hasil Ujian IPS": 78,
+        "Minat Bidang Studi": "Bahasa",
+        "Kemampuan Komunikasi": 9,
+        "Jurusan Direkomendasikan": "Jurusan Pendidikan Teknologi Informasi dan Komunikasi"
+    },
+    {
+        "Nilai Rapor": 90,
+        "Hasil Ujian Matematika": 92,
+        "Hasil Ujian IPA": 94,
+        "Hasil Ujian IPS": 91,
+        "Minat Bidang Studi": "Teknik",
+        "Kemampuan Komunikasi": 9,
+        "Jurusan Direkomendasikan": "Prodi Teknik Informatika"
+    },
+    {
+        "Nilai Rapor": 85,
+        "Hasil Ujian Matematika": 88,
+        "Hasil Ujian IPA": 90,
+        "Hasil Ujian IPS": 87,
+        "Minat Bidang Studi": "Sains",
+        "Kemampuan Komunikasi": 8,
+        "Jurusan Direkomendasikan": "Jurusan Pendidikan Teknik Mesin"
+    },
+    {
+        "Nilai Rapor": 80,
+        "Hasil Ujian Matematika": 82,
+        "Hasil Ujian IPA": 85,
+        "Hasil Ujian IPS": 83,
+        "Minat Bidang Studi": "Arsitektur",
+        "Kemampuan Komunikasi": 8,
+        "Jurusan Direkomendasikan": "Prodi Arsitektur"
+    },
+    {
+        "Nilai Rapor": 75,
+        "Hasil Ujian Matematika": 78,
+        "Hasil Ujian IPA": 80,
+        "Hasil Ujian IPS": 77,
+        "Minat Bidang Studi": "Teknik",
+        "Kemampuan Komunikasi": 7,
+        "Jurusan Direkomendasikan": "Prodi Teknik Sipil"
+    },
+    {
+        "Nilai Rapor": 88,
+        "Hasil Ujian Matematika": 90,
+        "Hasil Ujian IPA": 92,
+        "Hasil Ujian IPS": 89,
+        "Minat Bidang Studi": "Sains",
+        "Kemampuan Komunikasi": 9,
+        "Jurusan Direkomendasikan": "Jurusan Pendidikan Teknik Elektro"
+    },
+    {
+        "Nilai Rapor": 82,
+        "Hasil Ujian Matematika": 85,
+        "Hasil Ujian IPA": 88,
+        "Hasil Ujian IPS": 83,
+        "Minat Bidang Studi": "Bahasa",
+        "Kemampuan Komunikasi": 8,
+        "Jurusan Direkomendasikan": "Jurusan Pendidikan Teknologi Informasi dan Komunikasi"
+    }
+]
